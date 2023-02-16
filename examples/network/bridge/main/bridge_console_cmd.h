@@ -7,6 +7,7 @@
 
 #include <stdint.h>
 #include "esp_netif.h"
+#include<math.h>
 
 #ifdef __cplusplus
 extern "C" {
